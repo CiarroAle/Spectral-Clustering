@@ -23,7 +23,7 @@ The repository includes three main datasets:
 
 ---
 
-## 🛠️ Implemented Techniques
+## Implemented Techniques
 
 ### 1. Spectral Clustering
 The algorithm transforms the data into a lower-dimensional space using the eigenvectors of the Laplacian matrix $L$:
@@ -35,21 +35,6 @@ Used as a baseline comparison. It performs well on the 3D dataset but fails to c
 
 ### 3. DBSCAN
 A density-based algorithm used to identify clusters of arbitrary shape and handle noise (outliers).
-
----
-
-## Getting Started
-
-1.  **Prerequisites:** Ensure you have **MATLAB** installed.
-2.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/your-username/spectral-clustering-analysis.git](https://github.com/your-username/spectral-clustering-analysis.git)
-    ```
-3.  **Run the Script:**
-    Open MATLAB and execute the main file:
-    ```matlab
-    HW_SC_Ciarrocchi.m
-    ```
 
 ---
 
